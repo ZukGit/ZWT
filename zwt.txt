@@ -17,3 +17,4 @@ git clone --depth=1 https://github.com.cnpmjs.org/ZukGit/ZWT.git
 ztextrule_operation_I9.bat default_index_10
 ztextrule_operation_I9.bat default_index_21gdgdgd
 祝婉婷是个大白痴！！
+祝正杰是个大大白痴!!!
